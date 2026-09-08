@@ -28,6 +28,7 @@ list_of_files = [
 
     "app.py",                                          # Entry point for web app / API serving
     "main.py",                                         # Entry point to run the full training pipeline
+    "setup.py",                                        # File for entire app setup
 
     "Dockerfile",                                      # Docker image build instructions for deployment
     "requirements.txt",                                # Python dependencies list
